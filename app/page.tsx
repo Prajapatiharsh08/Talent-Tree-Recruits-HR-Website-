@@ -12,7 +12,7 @@ export default function Home() {
       {/* Hero Section */}
       <section className="relative bg-gradient-to-r from-blue-600 to-blue-800 text-white">
         <div className="absolute inset-0 overflow-hidden">
-          <div className="absolute inset-0 bg-[url('/images/grid-pattern.png')] opacity-20"></div>
+          <div className="absolute inset-0 bg-[url('/image.png')] opacity-20"></div>
         </div>
         <div className="container mx-auto px-4 py-20 md:py-32 relative z-10">
           <FadeInSection>
@@ -321,7 +321,7 @@ export default function Home() {
                 <div className="flex items-center mb-6">
                   <div className="mr-4">
                     <Image
-                      src="https://img.freepik.com/free-photo/young-blogger-with-glasses-pointing-up_23-2148538860.jpg?ga=GA1.1.2090407828.1744091715&semt=ais_hybrid&w=740"
+                      src="image2.png"
                       alt="Sarah Johnson"
                       width={60}
                       height={60}
@@ -353,7 +353,7 @@ export default function Home() {
                 <div className="flex items-center mb-6">
                   <div className="mr-4">
                     <Image
-                      src="https://img.freepik.com/free-photo/bohemian-man-with-his-arms-crossed_1368-3542.jpg?ga=GA1.1.2090407828.1744091715&semt=ais_hybrid&w=740"
+                      src="image1.png"
                       alt="Michael Chen"
                       width={60}
                       height={60}

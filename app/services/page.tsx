@@ -394,7 +394,7 @@ export default function ServicesPage() {
                 <div className="flex items-center mb-6">
                   <div className="mr-4">
                     <Image
-                      src="https://img.freepik.com/free-photo/young-blogger-with-glasses-pointing-up_23-2148538860.jpg?ga=GA1.1.2090407828.1744091715&semt=ais_hybrid&w=740"
+                      src="image2.png"
                       alt="Sarah Johnson"
                       width={60}
                       height={60}
@@ -419,7 +419,7 @@ export default function ServicesPage() {
                 <div className="flex items-center mb-6">
                   <div className="mr-4">
                     <Image
-                      src="https://img.freepik.com/free-photo/young-blogger-with-glasses-pointing-up_23-2148538860.jpg?ga=GA1.1.2090407828.1744091715&semt=ais_hybrid&w=740"
+                      src="image1.png"
                       alt="Michael Chen"
                       width={60}
                       height={60}

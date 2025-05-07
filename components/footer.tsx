@@ -147,21 +147,19 @@ export default function Footer() {
               <li className="flex items-start">
                 <MapPin className="h-5 w-5 mr-3 text-blue-300 mt-0.5 flex-shrink-0" />
                 <span className="text-blue-100">
-                  123 Business Avenue, Suite 500
-                  <br />
-                  New York, NY 10001
+                Ananta square, Vasant Vihar 2, Nava Naroda, Ahmedabad, Gujarat 382330
                 </span>
               </li>
               <li className="flex items-center">
                 <Phone className="h-5 w-5 mr-3 text-blue-300 flex-shrink-0" />
                 <a href="tel:+12125551234" className="text-blue-100 hover:text-white transition-colors">
-                  +1 (212) 555-1234
+                  +91 63516-72568
                 </a>
               </li>
               <li className="flex items-center">
                 <Mail className="h-5 w-5 mr-3 text-blue-300 flex-shrink-0" />
-                <a href="mailto:info@talenttree.com" className="text-blue-100 hover:text-white transition-colors">
-                  info@talenttree.com
+                <a href="mailto:info@talenttreerecruits.com" className="text-blue-100 hover:text-white transition-colors">
+                  info@talenttreerecruits.com
                 </a>
               </li>
               <li className="flex items-center">

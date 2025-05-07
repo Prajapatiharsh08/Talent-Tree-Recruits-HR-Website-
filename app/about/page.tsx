@@ -49,7 +49,7 @@ export default function AboutPage() {
             <FadeInSection delay={0.2}>
               <div className="relative h-[400px] rounded-xl overflow-hidden shadow-lg">
                 <Image
-                  src="https://img.freepik.com/free-photo/business-concept-with-team-close-up_23-2149151159.jpg?ga=GA1.1.2090407828.1744091715&semt=ais_hybrid&w=740"
+                  src="image3.png"
                   alt="Our team at work"
                   fill
                   className="object-cover"
@@ -145,7 +145,7 @@ export default function AboutPage() {
               <div className="bg-white rounded-xl shadow-sm overflow-hidden">
                 <div className="h-64 relative">
                   <Image
-                    src="https://img.freepik.com/premium-photo/portrait-young-girl-posing-gray_136354-7645.jpg?ga=GA1.1.2090407828.1744091715&semt=ais_hybrid&w=740"
+                    src="image4.png"
                     alt="Ananya Desai"
                     fill
                     className="object-cover"
@@ -166,7 +166,7 @@ export default function AboutPage() {
               <div className="bg-white rounded-xl shadow-sm overflow-hidden">
                 <div className="h-64 relative">
                   <Image
-                    src="https://img.freepik.com/free-photo/indian-stylish-man-yellow-traditional-clothes-with-white-scarf-posed-outdoor-against-wooden-background-shows-namaste-hands-sign_627829-12668.jpg?ga=GA1.1.2090407828.1744091715&semt=ais_hybrid&w=740"
+                    src="image5.png"
                     alt="Ravi Mehta"
                     fill
                     className="object-cover"
@@ -187,7 +187,7 @@ export default function AboutPage() {
               <div className="bg-white rounded-xl shadow-sm overflow-hidden">
                 <div className="h-64 relative">
                   <Image
-                    src="https://img.freepik.com/free-photo/young-woman-beautiful-red-dress_1303-17501.jpg?ga=GA1.1.2090407828.1744091715&semt=ais_hybrid&w=740"
+                    src="image6.png"
                     alt="Meera Kapoor"
                     fill
                     className="object-cover"
